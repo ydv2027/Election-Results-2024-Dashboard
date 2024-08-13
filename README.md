@@ -16,4 +16,6 @@ Voter turnout across constituencies.
 Winning candidates with less than 50% of total votes.
 Party-wise seat distribution and average votes.
 
+![image](https://github.com/user-attachments/assets/0341fb73-1282-4a16-bb0d-4322a363734b)
+
 Kindly go through it and make your own.
